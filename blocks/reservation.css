@@ -14,11 +14,6 @@
   font-size: 44px;
   line-height: 52px;
 }
-.checkbox {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-}
 
 .reservation__form {
   margin: 0 auto;
